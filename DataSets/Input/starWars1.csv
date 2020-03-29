@@ -13,7 +13,7 @@ Yoda,male,0.66,17,brown,brown,green,unk_planet,896BBY,4ABY,jedi,yoda,lightsaber
 Darth Maul,male,1.75,80,yellow,none,red,Dathomir,54BBY,unk_died,no_jedi,dathomirian,lightsaber
 Dooku,male,1.93,86,brown,brown,light,Serenno,102BBY,19BBY,jedi,human,lightsaber
 Chewbacca,male,2.28,112,blue,brown,NA,Kashyyyk,200BBY,25ABY,no_jedi,wookiee,bowcaster
-Jabba,male,3.9,1,yellow,none,tan-green,Tatooine,unk_born,4ABY,no_jedi,hutt,unarmed
+Jabba,male,3.9,null,yellow,none,tan-green,Tatooine,unk_born,4ABY,no_jedi,hutt,unarmed
 Lando Calrissian,male,1.78,79,brown,blank,dark,Socorro,31BBY,unk_died,no_jedi,human,blaster
 Boba Fett,male,1.83,78,brown,black,brown,Kamino,31.5BBY,unk_died,no_jedi,human,blaster
 Jango Fett,male,1.83,79,brown,black,brown,ConcordDawn,66BBY,22BBY,no_jedi,human,blaster
